@@ -1,0 +1,19 @@
+openapi: 3.0.1
+info:
+  title: Paymentslambda4
+  description: ""
+  x-cortex-tag: paymentslambda4
+  x-cortex-git:
+    github:
+      repository: coachingup/PaymentsLambda4
+  x-cortex-owners:
+  - email: jordan.hochenbaum@betterup.co
+    type: EMAIL
+  - name: dataops-squad
+    type: GROUP
+  x-cortex-service-groups:
+  - aws
+  - lambda
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.0.2
+    cortex-generated-timestamp: 2022-08-15T16:54:25.433813
